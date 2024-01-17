@@ -1,6 +1,6 @@
 <div align="center">
   
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=(flawed)&theme=(cold))
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=flawed&theme=(cold))
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1awed&layout=compact&theme=material-palenight)
 <br/>
